@@ -42,9 +42,6 @@ const messages = [
 //Function for interactive quiz
 async function main() {
 
-console.log(chalk.bgBlack.bold("Quiz time!"));
-console.log(" ");
-
   //Retrieve AI generated content
   const chatCompletion = await openai.chat.completions.create({
         model: "gpt-3.5-turbo",
@@ -61,7 +58,7 @@ console.log(" ");
       let questions = AIcontent.split('/');
 
       //Test
-      //console.log(AIcontent);
+      console.log(AIcontent);
       
       // Map over the questions to extract details
       let parsedQuestions = questions.map(question => {

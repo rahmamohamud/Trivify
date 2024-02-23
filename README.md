@@ -28,10 +28,10 @@ This console application is built using the following technologies:
 
 ## Installation Notes
 
-1.    **Node.js:**
-* Visit Node.js official website.
-* Download and install the latest LTS version for your operating system.
-* Follow the installation instructions provided on the website.
+1. **Node.js:**
+      * Visit Node.js official website.
+      * Download and install the latest LTS version for your operating system.
+      * Follow the installation instructions provided on the website.
 
 
 2. **OpenAI GPT-3.5**:

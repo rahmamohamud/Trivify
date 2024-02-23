@@ -28,37 +28,43 @@ This console application is built using the following technologies:
 
 ## Installation Notes
 
-1. **Node.js:**
+1.    **Node.js:**
 * Visit Node.js official website.
 * Download and install the latest LTS version for your operating system.
 * Follow the installation instructions provided on the website.
 
-2. **OpenAI GPT-3.5**:
-* Sign up for an account on the OpenAI platform.
-* Obtain your API key from the OpenAI platform.
-* Create a file named .env in the root of your project and add the following line, replacing YOUR_API_KEY with your actual API key:
 
-```OPENAI_API_KEY=YOUR_API_KEY```
+2. **OpenAI GPT-3.5**:
+    * Sign up for an account on the OpenAI platform.
+    * Obtain your API key from the OpenAI platform.
+    * Create a file named .env in the root of your project and add the following line, replacing YOUR_API_KEY with your actual API key:
+
+        ```OPENAI_API_KEY=YOUR_API_KEY```
+
 
 3. **Inquirer**:
-* In your project directory, run the following command to install Inquirer:
+    * In your project directory, run the following command to install Inquirer:
 
-```npm install inquirer```
+        ```npm install inquirer```
+
 
 4. **Chalk**:
-* Run the following command to install Inquirer:
+    * Run the following command to install Inquirer:
 
-```npm install chalk```
+        ```npm install chalk```
+
 
 5. **nanospinner**:
-* Run the following command to install nanospinner:
+    * Run the following command to install nanospinner:
 
-```npm install nanospinner```
+        ```npm install nanospinner```
+
 
 6. **readline-sync**:
-* Run the following command to install readline-sync:
+    * Run the following command to install readline-sync:
 
-```npm install readline-sync```
+        ```npm install readline-sync```
+
  
 ## Running the Application
 

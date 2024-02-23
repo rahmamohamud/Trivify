@@ -78,8 +78,8 @@ async function main() {
     quizResults.push({ question, isCorrect });
   }
 
-  // Displaying quiz results
-  displayResults(quizResults);
+    // Displaying quiz results
+    displayResults(quizResults);
 }
 
 // Function to ask a question using Inquirer

@@ -64,6 +64,12 @@ This console application is built using the following technologies:
     * Run the following command to install readline-sync:
 
         ```npm install readline-sync```
+      
+7. **dotenv**:
+    * Run the following command to install dotenv:
+
+        ```npm install dotenv```
+ 
 
  
 ## Running the Application
